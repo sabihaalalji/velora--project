@@ -118,3 +118,4 @@ The product images use fixed sizing and `object-fit` to keep the product cards c
 Animations and transitions were kept simple so they do not add unnecessary complexity to the page.
 
 A Lighthouse audit was not completed during development, so no Lighthouse scores are included.# VELORA-FASHIONS
+# VELORA-FASHIONS
