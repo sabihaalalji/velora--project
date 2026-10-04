@@ -119,3 +119,4 @@ Animations and transitions were kept simple so they do not add unnecessary compl
 
 A Lighthouse audit was not completed during development, so no Lighthouse scores are included.# VELORA-FASHIONS
 # VELORA-FASHIONS
+# VELORA-FASHIONS
