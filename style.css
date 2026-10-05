@@ -248,4 +248,39 @@ select {
     box-shadow: none;
     break-inside: avoid;
   }
+}footer {
+  background-color: #5A4032;
+  color: #F5EFE6;
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 60px;
+}
+
+.footer-logo {
+  font-family: Georgia, serif;
+  font-size: 28px;
+  letter-spacing: 4px;
+  margin-bottom: 20px;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.footer-links a {
+  color: #F5EFE6;
+  text-decoration: none;
+  font-family: Georgia, serif;
+}
+
+.footer-links a:hover {
+  color: #D8B7A4;
+}
+
+footer p {
+  font-size: 14px;
+  margin: 8px 0;
 }
